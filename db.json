@@ -10,7 +10,8 @@
         "name": "Temperature",
         "value": 15,
         "set_method": "set_temperature",
-        "unit": "degC"
+        "unit": "degC",
+        "alert_msg": "Value too low!"
       },
       {
         "name": "Humidity",
