@@ -18,25 +18,25 @@
       },
       {
         "name": "Rotation Interval",
-        "value": 600,
+        "value": 5,
         "set_method": "set_rotation_interval",
         "unit": "min"
       },
       {
         "name": "Cooling Interval",
-        "value": 1200,
+        "value": 60,
         "set_method": "set_cooling_interval",
         "unit": "min"
       },
       {
         "name": "Cycle Length Total",
-        "value": 5356800,
+        "value": 62,
         "set_method": "set_cycle_length_total",
         "unit": "days"
       },
       {
         "name": "Cycle Length Remaining",
-        "value": 3024000,
+        "value": 35,
         "unit": "days"
       }
     ]
