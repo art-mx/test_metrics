@@ -2,6 +2,7 @@
   "device": {
     "online": true,
     "model": "Protortype 2",
+    "type": "Incubator",
     "sn": 123123123,
     "metrics": [
       {
