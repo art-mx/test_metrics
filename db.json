@@ -5,6 +5,7 @@
     "type": "Incubator",
     "sn": 123123123,
     "state": "Running",
+    "timestamp": "2024-08-07T15:15:48+00:00",
     "metrics": [
       {
         "name": "Temperature",
