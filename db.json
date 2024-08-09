@@ -1,11 +1,13 @@
 {
   "device": {
-    "online": true,
     "model": "Prototype 2",
     "type": "Incubator",
     "sn": 123123123,
-    "state": "Running",
     "timestamp": "2024-08-07T15:15:48+00:00",
+    "state": {
+      "mode": "Running",
+      "program": "Chicken"
+    },
     "metrics": [
       {
         "name": "Temperature",
