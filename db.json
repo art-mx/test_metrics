@@ -39,6 +39,13 @@
         "unit": "min"
       },
       {
+        "name": "Cooling Duration",
+        "value": 5,
+        "limits": [1, 10],
+        "set_method": "set_cooling_interval",
+        "unit": "min"
+      },
+      {
         "name": "Cycle Length Total",
         "value": 62,
         "limits": [10, 100],
