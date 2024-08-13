@@ -2,7 +2,8 @@
   "device": {
     "model": "Prototype 2",
     "type": "Incubator",
-    "sn": 123123123,
+    "sn": 000001,
+    "mac":"a1b2c3d4e5f6",
     "timestamp": "2024-08-07T15:15:48+00:00",
     "state": {
       "mode": "Running",
