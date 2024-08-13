@@ -23,7 +23,7 @@
         "value": 75,
         "limits": {"min":10, "max":90},
         "set_method": "set_humidity",
-        "unit": "%"
+        "unit": "percent"
       },
       {
         "name": "Rotation Interval",
