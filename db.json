@@ -12,7 +12,7 @@
       {
         "name": "Temperature",
         "value": 15,
-        "limits": [20, 40],
+        "limits": {"min":20, "max":40},
         "set_method": "set_temperature",
         "unit": "degC",
         "alert_msg": "Value too low!"
@@ -20,35 +20,35 @@
       {
         "name": "Humidity",
         "value": 75,
-        "limits": [10, 90],
+        "limits": {"min":10, "max":90},
         "set_method": "set_humidity",
         "unit": "%"
       },
       {
         "name": "Rotation Interval",
         "value": 5,
-        "limits": [1, 60],
+        "limits": {"min":1, "max":60},
         "set_method": "set_rotation_interval",
         "unit": "min"
       },
       {
         "name": "Cooling Interval",
         "value": 60,
-        "limits": [10, 600],
+        "limits": {"min":10, "max":600},
         "set_method": "set_cooling_interval",
         "unit": "min"
       },
       {
         "name": "Cooling Duration",
         "value": 5,
-        "limits": [1, 10],
+        "limits": {"min":1, "max":10},
         "set_method": "set_cooling_interval",
         "unit": "min"
       },
       {
         "name": "Cycle Length Total",
         "value": 62,
-        "limits": [10, 100],
+        "limits": {"min":10, "max":100},
         "set_method": "set_cycle_length_total",
         "unit": "days"
       },
